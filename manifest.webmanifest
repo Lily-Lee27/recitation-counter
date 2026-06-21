@@ -1,0 +1,10 @@
+{
+  "name": "念诵记",
+  "short_name": "念诵记",
+  "description": "个人念诵计数器",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf5",
+  "theme_color": "#55745d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
